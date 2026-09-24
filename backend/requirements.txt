@@ -1,0 +1,26 @@
+# Core Framework & Server
+fastapi==0.115.0
+uvicorn[standard]==0.31.0
+pydantic==2.9.2
+websockets==13.1
+
+# Numerical & Data Processing
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+
+# Solar Physics & Modeling
+pvlib==0.11.1
+
+# Computer Vision & Image Processing
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+
+# Machine Learning & Optimization
+scikit-learn==1.5.2
+xgboost==2.1.1
+
+# Utilities & Reporting
+python-multipart==0.0.12
+httpx==0.27.2
+reportlab==4.2.5
